@@ -1,0 +1,14 @@
+baseURL = 'https://ultraculture.ru'
+languageCode = 'ru'
+title = "«Ультра.Культура» Издательство Ильи Кормильцева"
+theme = 'book'
+disablePathToLower = true
+
+[markup.tableOfContents]
+  startLevel = 2
+
+[params]
+# BookMenuBundle = '/menu'
+BookToC = true
+BookSection = 'docs'
+BookComments = false

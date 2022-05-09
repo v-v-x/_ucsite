@@ -1,0 +1,65 @@
+---
+title: Серии
+weight: 4
+---
+
+## Серии
+
+
+### жzл
+
+<span title="Эдуард Лимонов. В плену у мертвецов">[![](/img/mertvec_0.gif)](/docs/books/001_mertvec)</span> <span title="Хьюи Ньютон. Революционное самоубийство">[![Хьюи Ньютон](/img/newton_0.gif)](/docs/books/012_newton)</span> <span title="Алла Дудаева. Миллион первый">[![Дудаев](/img/dudaev_0.gif)](/docs/books/013_dudaev)</span> <span title="Саша и Энн Шульгины. Фенэтиламины, которые я знал и любил">[![img](/img/shulgin_0.gif)](/docs/books/025_shulgin)</span> <span title="Бланш Бартон. Антон ЛаВей: Тайная жизнь сатаниста">[![img](/img/lavey_0.gif)](/docs/books/036_lavey)</span> <span title="Роберт Форте (сост.). Тимоти Лири: Искушение будущим">[![img](/img/liri_0.gif)](/docs/books/037_liri)</span> <span title="Мартин Бут. Жизнь мага Биография Алистера Кроули">[![img](/img/crowley_0.gif)](/docs/books/052_crowley)</span> <span title="Герд Коэнен. Веспер, Энслин, Баадер. Немецкий терроризм: начало спектакля">[![img](/img/raf_0.gif)](/docs/books/064_raf)</span> <span title="Субкоманданте Маркос. Четвертая Мировая война">[![img](/img/ww4_0.gif)](/docs/books/077_ww4)</span> <span title="Дэвид Чэндлер. Брат номер один Биография Пол Пота">[![img](/img/polpot_0.gif)](/docs/books/080_polpot)</span> <span title="Нуэль Эммонс. Чарльз Мэнсон: подлинная история жизни, рассказанная им самим">[![img](/img/Ch_Manson_150lt4.jpg)](/docs/books/098_manson)</span> 
+
+### overdrive
+
+
+<span title="Уильям Берроуз. Города красной ночи">[![](/img/goroda_0.gif)](/docs/books/002_goroda)</span> <span title="Лидия Ланч. Парадоксия: Дневник хищницы">[![img](/img/paradoxia_0.gif)](/docs/books/003_paradoxia)</span> <span title="Дмитрий Нестеров. Скины: Русь пробуждается">[![Скины](/img/skin_0.gif)](/docs/books/010_skin)</span> <span title="Эндрю Макдональд. Дневник Тернера">[![Дневник Тернера](/img/turner_0.gif)](/docs/books/011_turner)</span> <span title="Брет Истон Эллис. Американский психопат">[![Американский психопат](/img/psihopat_0.jpg)](/docs/books/014_psihopat)</span> <span title="Тони Уайт. Трави трассу. Сатана! Сатана! Сатана!">[![Трави трассу](/img/trassa_0.gif)](/docs/books/018_trassa)</span> <span title="Виржини Депант. Трахни меня">[![img](/img/depant_0.gif)](/docs/books/029_depant)</span> <span title="Уильям Берроуз. Пространство мертвых дорог">[![img](/img/dorog_0.gif)](/docs/books/032_dorog)</span> <span title="Абель Поссе. Путешествие в Агарту">[![img](/img/posse_0.gif)](/docs/books/035_posse)</span> <span title="Брет Истон Эллис. Гламорама">[![img](/img/grama_0.gif)](/docs/books/038_glamorama)</span> <span title="Патрик Рамбо. 1968">[![img](/img/1968_0.gif)](/docs/books/040_1968)</span> <span title="Томас Гунциг. Смерть билингвы">[![img](/img/biling_0.gif)](/docs/books/042_bilingua)</span> <span title="Пьер Бордаж. Евангелие от змеи">[![img](/img/zmey_0.gif)](/docs/books/044_zmey)</span> <span title="Фрэнк Харрис. Бомба">[![img](/img/bomba_0.gif)](/docs/books/066_bomba)</span> <span title="Пьер Бордаж. Ангел бездны">[![img](/img/angel_0.gif)](/docs/books/074_angel)</span> 
+
+### russkiy drive
+
+
+<span title="Александр Уваров. Ужин в раю">[![img](/img/uzhin_0.gif)](/docs/books/047_uzhin/)</span> <span title="Андрей Бычков. Дипендра">[![img](/img/dipendra_0.gif)](/docs/books/055_dipendra/)</span> <span title="Юрий Барков. Запретный дневник">[![img](/img/barkov_0.gif)](/docs/books/060_dnevnik/)</span> <span title="Михаил Уржаков. Дом, который построил Майк">[![img](/img/mickehouse_0.jpg)](/docs/102a_urzhakov)</span>
+
+
+### non-fiction
+
+
+<span title="Лестер Гринспун, Джеймс Бакалар. Марихуана — запретное лекарство">[![img](/img/marihuana_0.gif)](/docs/books/004_marihuana)</span> <span title="Адам Парфрей (сост.). Аллах не любит Америку">[![img](/img/allah_0.gif)](/docs/books/006_allah)</span> <span title="Борис Кагарлицкий. Восстание среднего класса">[![Восстание среднего класса](/img/midl_0.gif)](/docs/books/008_middle)</span> <span title="Дуглас Рашкофф. Медиавирус">[![Медиавирус](/img/virus_0.gif)](/docs/books/009_virus)</span> <span title="Олег Шишкин. Красный Франкенштейн">[![Красный Франкенштейн](/img/frank_0.gif)](/docs/books/015_frank)</span> <span title="Брюс Хоффман. Терроризм изнутри">[![Терроризм изнутри](/img/terror_0.gif)](/docs/books/019_terror)</span> <span title="Гейдар Джемаль. Революция пророков">[![img](/img/prorok_0.gif)](/docs/books/021_djemal2)</span> <span title="Юлия Юзик. Невесты Аллаха">[![img](/img/uzik_0.gif)](/docs/books/022_uzik)</span> <span title="Алексей Цветков. Суперприсутствие">[![img](/img/super_0.gif)](/docs/books/023_super)</span> <span title="Джон де Грааф. Потреблятство">[![img](/img/infl_0.gif)](/docs/books/026_affl)</span> <span title="Джей Стивенс. Штурмуя небеса">[![img](/img/lsd_0.gif)](/docs/books/027_lsd)</span> <span title="Бент Коридан. Маньяк или мессия Рон Хаббард">[![img](/img/habbard_0.gif)](/docs/books/033_habbard/)</span> <span title="Борис Кагарлицкий. Периферийная империя">[![img](/img/imperia_0.gif)](/docs/books/034_imperia)</span> <span title="Исраэль Шамир. Сосна и олива">[![img](/img/sosna_0.gif)](/docs/books/039_sosna)</span> <span title="Мэтью Коллин. Измененное состояние">[![img](/img/ecstasy_0.gif)](/docs/books/045_ecstasy)</span> <span title="Так говорил Саддам">[![img](/img/saddam_0.gif)](/docs/books/053_saddam)</span> <span title="Вадим Штепа. RUтопия">[![img](/img/rutopia_0.gif)](/docs/books/061_rutopia)</span> <span title="Адам Парфрей (сост.). Культура времен апокалипсиса">[![img](/img/apoc_0.gif)](/docs/books/067_apoc)</span> <span title="Дмитрий Старостин. Американский ГУЛАГ">[![img](/img/gulag_0.gif)](/docs/books/073_gulag)</span> <span title="Олег Киреев. Поваренная книга медиа-активиста">[![img](/img/MediaActiv300lt3.jpg)](/docs/books/097_cookbook)</span> 
+
+### вне серий
+
+<span title="Эдуард Лимонов. Другая Россия">[![img](/img/altrussia_0.gif)](/docs/books/005_altrussia/)</span> <span title="Алексей Цветков (сост.). Антология современного анархизма и левого радикализма">[![Антология современного анархизма и левого радикализма](/img/anarh_0.gif)](/docs/books/007_anarh/)</span> <span title="Эдуард Лимонов. Русское психо">[![Русское психо](/img/pcycho_0.gif)](/docs/books/016_psycho/)</span> <span title="Эдуард Лимонов. Контрольный выстрел">[![Контрольный выстрел](/img/vystrel_0.gif)](/docs/books/017_vystrel/)</span> <span title="Последние пионеры (под ред. Алексея Рафиева)">[![img](/img/pioner_0.gif)](/docs/books/024_pioner/)</span> <span title="Дмитрий Гайдук. Растаманские сказки и все такое">[![img](/img/rasta_0.gif)](/docs/books/041_rasta/)</span> <span title="Мелвин Берджесс. Сучка по прозвищу Леди">[![img](/img/lady_0.gif)](/docs/books/057_lady/)</span> <span title="Мелвин Берджесс. Дурь">[![img](/img/dur_0.gif)](/docs/books/071_dur/)</span> <span title="Поколение «Лимонки»">[![img](/img/limonka_0.gif)](/docs/books/076_poklimon/)</span> <span title="Эрнесто Че Гевара. Дневник мотоциклиста">[![img](/img/che_0.gif)](/docs/books/081_che/)</span> <span title="Александр Проханов. Политолог">[![img](/img/politolog_0.gif)](/docs/books/090_politolog/)</span> <span title="Александр Проханов. Хроники пикирующего времени">[![img](/img/proh_chr_0.gif)](/docs/books/091_chrpictime/)</span> <span title="Герман Садулаев. Я - чеченец">[![img](/img/jachecheneclt2.jpg)](/docs/books/096_chech/)</span> <span title="Алексей Цветков. Баррикады в моей жизни">[![img](/img/barricadenlt5.JPG)](/docs/books/099_barrikaden/)</span> <span title="Александр Уваров. Пленники темной воды">[![img](/img/Plenniki_red_150lt6.jpg)](/docs/books/100_plenniki/)</span> <span title="Мелвин Берджес. Трах!">[![img](/img/melvin_Trah_150lt7.jpg)](/docs/books/101_trah/)</span> <span title="Александр Проханов. Теплоход «Иосиф Бродский»">[![img](/img/prhanovbrodskiylt8.jpg)](/docs/books/102_brodski/)</span> <span title="Станислав Белковский, Владимир Голышев. Бизнес Владимира Путина">[![img](/img/putinbolshoibiznesmen60.jpg)](/docs/books/103_biznesputina/)</span> <span title="Говард Маркс. Господин Ганджубас">[![img](/img/GovardMarks_60.jpg)](/docs/books/106_mrgangubas/)</span>
+
+### поэзия
+
+<span title="Эдуард Лимонов. Стихотворения">[![Лимонов. Стихотворения](/img/limonov_0.gif)](/docs/books/020_limonov/)</span> <span title="Всеволод Емелин. Стихотворения">[![img](/img/emelin_0.gif)](/docs/books/028_emelin/)</span> <span title="Галина Сергеева (сост.). Антология поэзии битников">[![Антология поэзии битников](/img/beat_0.gif)](/docs/books/049_beat/)</span> <span title="Джим Дуглас Моррисон. Последний проклятый поэт">[![img](/img/doors_0.gif)](/docs/books/050_morrison/)</span> <span title="Ник Кейв. Король Чернило. Том I">[![img](/img/cave1_0.gif)](/docs/books/051_cave1/)</span> <span title="Гейдар Джемаль. Стихотворения">[![img](/img/djemal_0.gif)](/docs/books/056_djemal/)</span> <span title="Алина Витухновская. Черная икона русской поэзии">[![img](/img/icon_0.gif)](/docs/books/068_icona/)</span> <span title="Ник Кейв. Король Чернило. Том II">[![img](/img/cave2_0.gif)](/docs/books/078_cave2/)</span> <span title="Андрей Родионов. Портрет с натуры">[![img](/img/rodionov_0.gif)](/docs/books/089_rodionov/)</span>
+
+### cybertime
+
+
+<span title="Глен Йеффет. Съешь красную таблетку">[![img](/img/matrix_0.gif)](/docs/books/030_matrix/)</span> <span title="Симсон Гарфинкель. Все под контролем">[![img](/img/control_0.gif)](/docs/books/031_control/)</span> <span title="Конрад Беккер. Словарь тактической реальности">[![Словарь тактической реальности](/img/bekker_0.gif)](/docs/books/048_bekker/)</span> <span title="Брюс Стерлинг. Будущее уже началось">[![img](/img/tomorrow_0.gif)](/docs/books/070_tomorrow/)</span> <span title="Сьюлетт Дрейфус. Компьютерное подполье">[![img](/img/dreyfus_0.gif)](/docs/books/079_dreyfus/)</span> <span title="Питер Ладлоу (сост.). Криптоанархия, кибергосударства и пиратские утопии">[![img](/img/crypto_0.gif)](/docs/books/092_crypto/)</span> 
+
+### энциклопедии
+
+
+<span title="Маргарет Балд и др. 100 запрещенных книг">[![img](/img/100knig_0.gif)](/docs/books/043_100knig/)</span> <span title="Дон Соува. 125 запрещенных фильмов">[![img](/img/125kino_0.gif)](/docs/books/054_125/)</span> <span title="Дмитрий Десятерик (сост.). Энциклопедия альтернативной культуры">[![img](/img/alt_0.gif)](/docs/books/069_alt/)</span> <span title="Н. Маширо. Черная медицина">[![img](/img/medcine_0.gif)](/docs/books/072_medcine/)</span> <span title="Энциклопедия мафии">[![img](/img/mafia_0.gif)](/docs/books/075_mafia/)</span> <span title="Александр Громов (сост.). Сакральная география">[![img](/img/sacr_0.gif)](/docs/books/093_sacr/)</span>
+
+
+### новояз
+
+<span title="Алексей Тарасенко. Черный крест">[![img](/img/krest_0.gif)](/docs/books/058_black-cross/)</span> <span title="Виктор Перельман. Правдивая история китайцев">[![img](/img/china_0.gif)](/docs/books/059_china/)</span> <span title="Андрей Бодров. План побега">[![img](/img/pobeg_0.gif)](/docs/books/062_pobeg/)</span> <span title="Александр Уваров. Михалыч и черт">[![img](/img/mihalych_0.gif)](/docs/books/065_mihalich/)</span>
+
+### brave new world
+
+
+<span title="Уильям Гибсон. Виртуальный свет">[![img](/img/vlight_0.gif)](/docs/books/082_virtuallight)</span> <span title="Пэт Кадиган. Чай из пустой чашки">[![img](/img/tea_0.gif)](/docs/books/083_tea)</span> <span title="Пэт Кадиган. Искусники">[![img](/img/sinners_0.gif)](/docs/books/084_sinners)</span> <span title="Карлтон Меллик. Сатанбургер">[![img](/img/satan_0.gif)](/docs/books/085_satanburger)</span> <span title="Джон Шерли. И пришел город">[![img](/img/city_0.gif)](/docs/books/086_sity)</span> 
+
+### klassenkampf
+
+
+<span title="Сьюзан Джордж. Доклад Лугано">[![img](/img/lugano_0.gif)](/docs/books/087_lugano)</span> <span title="Джин Шарп, Брюс Дженкинс. От диктатуры к демократии. Антипутч">[![img](/img/sharp_0.gif)](/docs/books/088_sharp)</span> <span title="Александр Тарасов. Революция не всерьез">[![img](/img/tarasov_0.gif)](/docs/books/094_tarasovrevol)</span> <span title="Борис Кагарлицкий. Управляемая демократия">[![img](/img/uprdemocrlt1.jpg)](/docs/books/095_uprdem)</span>
+
+### ultra.fiction
+
+
+<span title="Гилад Ацмон. Единственная и неповторимая">[![img](/img/edinstvennaja_60.jpg)](/docs/books/104_atsmon)</span> <span title="Бенджамин Вайсман. Господин мертвец">[![img](/img/Weissman_60.jpg)](/docs/books/105_mrmertvec)</span> <span title="Хьюберт Селби-мл. Реквием по мечте">[![](/img/selby_cover_60.jpg)](/docs/books/107_requiem)</span> 
